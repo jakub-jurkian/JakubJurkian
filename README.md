@@ -8,25 +8,28 @@ I am a CS student with a strong technical background (IT Technician Diploma). I 
 ---
 
 ### Currently working on
-**[temporal-resource-allocation-system](https://github.com/JakubJurkian/temporal-resource-allocation-system)** - *A temporal resource allocation system with collision detection logic (React + TypeScript).*
+**[smart-home-simulator](https://github.com/jakub-jurkian/smart-home-simulator)** - *A full stack (.NET & React) application dockerized and deployed to Microsoft Azure Ecosystem.*
 
 ---
 
 ### My Tech Stack
 
 **Front-end** <br/>
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,html,sass,bootstrap,tailwind" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,html,tailwind" alt="Frontend Skills" />
 
 <br/>
 
 **Back-end** <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,mongodb,mysql" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,cs,dotnet,mongodb,mysql" alt="Backend Skills" />
 
 <br/>
 
 **Tools & Others** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,py,firebase,jest" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=azure,git,linux,py,firebase,jest" alt="Tools" />
 <br/>
 <br/>
 [Visit my Portfolio](https://JakubJurkian.github.io)
 </div>
+
+<br />
+Availability: I am looking for a Summer 2026 Internship. I will be available for Full-time work starting Jan 2027.
