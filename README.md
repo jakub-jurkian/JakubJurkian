@@ -1,58 +1,41 @@
-# CS Student @ University of Gdańsk | Aspiring Java Backend Developer
+<div align="center">
 
-I am a Computer Science student with an IT Technician diploma and a strong foundation in systems (Linux, networks, databases). I build production-style backends — from **Java/Spring Boot REST APIs** with integration tests and schema migrations, to **microservices** with OAuth 2.0 and polyglot persistence, to **cloud-deployed** full-stack systems on Azure.
+# Jakub Jurkian
+### Java Backend Developer | Software Engineer | CS Student @ UG
 
-My focus for **2026/2027** is landing a **junior Java backend / software engineering role**. I ship readable, testable code and care about architecture decisions — not just CRUD.
+I build backend systems primarily in Java because I genuinely enjoy the server-side of software. My engineering approach is backed by practical experience across multiple ecosystems including Node.js and .NET server-side architectures.
 
-<br/>
-
----
-
-### Currently working on
-
-**[velocity](https://github.com/jakub-jurkian/velocity) backend** — *Building a Java/Spring Boot API for my bike-rental SPA: reservations, fleet management, auth, and PostgreSQL — replacing the current LocalStorage simulation.*
-
-**[mockbean](https://github.com/jakub-jurkian/mockbean)** — *Polishing an LLM-as-a-Judge evaluation API (RAG + pgvector, Flyway, Testcontainers) from my Computational Intelligence coursework.*
+[Portfolio Website](https://jakub-jurkian-portfolio.vercel.app/) · [LinkedIn Profile](your-linkedin-link)
 
 ---
 
-### Featured projects
+### Active Engineering Work
+**[velocity]()** - Architecting a Java/Spring Boot fleet management API equipped with temporal collision-detection and a deterministic rental billing engine.
 
-| Project | What it demonstrates | Stack |
+</div>
+
+---
+
+## Featured Engineering Projects
+
+| Project | Core Capabilities & Architecture | Technical Stack |
 | :--- | :--- | :--- |
-| **[mockbean](https://github.com/jakub-jurkian/mockbean)** | REST API with Spring profiles, RAG vs pure-prompt LLM modes, vector search, evaluation observability, Dockerized Postgres | Java 21, Spring Boot 3.5, LangChain4j, PostgreSQL + pgvector, Flyway, Testcontainers |
-| **[grailkits](https://github.com/jakub-jurkian/grailkits)** | Microservices marketplace: API Gateway, OAuth 2.0 (Auth Code + PKCE), JWT/JWKS validation, polyglot persistence | Node.js, Express, Keycloak, PostgreSQL, MongoDB, Redis, Docker |
-| **[smart-home-simulator](https://github.com/jakub-jurkian/smart-home-simulator)** | IoT platform with MQTT + SignalR real-time updates, Clean Architecture, Azure IaC (Bicep), CI/CD, 80%+ test coverage | .NET 10, EF Core, React, Azure Container Apps, Docker, xUnit |
-| **[velocity](https://github.com/jakub-jurkian/velocity)** | Fleet rental SPA with temporal collision detection, RBAC, and custom form/state patterns — **Java backend in progress** | React, TypeScript, Redux Toolkit, Vite |
-| **[Nodewave](https://github.com/jakub-jurkian/Nodewave)** | Full-stack social network: session auth, MongoDB schema design, layered security | Node.js, Express, MongoDB, TypeScript |
-| **[My-Tech-Blog](https://github.com/jakub-jurkian/My-Tech-Blog)** | Serverless blog with Auth0, Firebase, and CRUD content management | React, Redux Toolkit, Firebase, Auth0 |
+| **[mockbean](https://github.com/jakub-jurkian/mockbean)** | REST API supporting dynamic RAG execution modes, automated evaluation observability layer, and explicit Flyway schema evolution. | Java 21, Spring Boot 3.5, LangChain4j, PostgreSQL + pgvector, Flyway, Testcontainers |
+| **[velocity](https://github.com/jakub-jurkian/velocity)** | Fleet allocation backend implementing complex business constraints, role-based security validation, and a custom temporal resource engine. | Java 21, Spring Boot 3.x, PostgreSQL, React (Frontend View) |
+| **[smart-home-simulator](https://github.com/jakub-jurkian/smart-home-simulator)** | Multi-protocol IoT hardware simulation (MQTT/TCP), concurrent background daemon workers, and fully declarative Azure Bicep IaC. | .NET 10, EF Core, React, Azure Container Apps, Docker, xUnit |
+| **[grailkits](https://github.com/jakub-jurkian/grailkits)** | Decoupled microservices architecture utilizing central Keycloak IAM authorization flows and runtime polyglot data access layers. | Node.js, Express, Keycloak, PostgreSQL, MongoDB, Redis, Docker |
 
 ---
 
-### My Tech Stack
+## Production Toolkit
 
-**Backend (primary focus)** <br/>
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,maven" alt="Java Backend Skills" />
+* **Backend Frameworks:** Java 21+, Spring Boot 3+, Spring Security (JWT/OAuth2), Hibernate/JPA, Node.js, Express, .NET Core
+* **Databases & Messaging:** PostgreSQL, Redis, Apache Kafka, MongoDB
+* **DevOps & Cloud Ecosystems:** Docker, docker-compose, AWS (S3, ECS), Microsoft Azure, GitHub Actions CI/CD
+* **Quality Assurance & Testing:** JUnit 5, Mockito, Testcontainers, xUnit
 
-<br/>
+---
 
-**Also experienced with** <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,go,cs,dotnet,mongodb,mysql,redis" alt="Additional Backend Skills" />
-
-<br/>
-
-**Front-end** <br/>
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,html,tailwind" alt="Frontend Skills" />
-
-<br/>
-
-**Tools & Cloud** <br/>
-<img src="https://skillicons.dev/icons?i=azure,git,linux,py,firebase,jest" alt="Tools" />
-
-<br/>
-
-[Visit my Portfolio](https://jakub-jurkian-portfolio.vercel.app/)
-
-<br/>
-
-**Availability:** Looking for a **Summer 2026 internship** (backend / software engineering). Available for **full-time work from January 2027**.
+## 2026/2027 Career Target
+* **Current Goal:** Securing a **Java Backend Developer / Software Engineer internship** or junior position within an production-driven engineering team.
+* **Timeline Availability:** Ready for immediate internship entry and transitioning into full-time engineering commitments starting **January 2027**.
