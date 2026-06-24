@@ -1,4 +1,4 @@
-I build backend systems primarily in Java because I genuinely enjoy the server-side of software. I'm also expanding into adjacent ecosystems (Node.js, .NET, Go) to broaden my engineering perspective.
+I build backend systems primarily in Java because I genuinely enjoy the server-side of software. I'm also expanding into adjacent ecosystems to broaden my engineering perspective.
 
 [Portfolio](https://jakub-jurkian-portfolio.vercel.app/) · [LinkedIn](your-linkedin-link)
 
